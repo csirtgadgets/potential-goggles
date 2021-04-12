@@ -11,7 +11,7 @@ tzlocal
 
 SQLAlchemy>=1.2
 tornado>=5.0
-nltk>=3.2,<3.3
+nltk>=3.6,<3.3
 
 csirtg_indicator>=2.0,<3.0
 apwgsdk==2.0a3
