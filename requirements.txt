@@ -18,7 +18,7 @@ apwgsdk==2.0a3
 csirtgsdk>=1.1.3,<2.0
 csirtg_mail>=0.0.0a9
 
-tensorflow==1.13.1
+tensorflow==2.5.0
 csirtg-urlsml-tf
 csirtg-domainsml-tf
 csirtg-ipsml-tf
